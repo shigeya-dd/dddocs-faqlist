@@ -34,6 +34,6 @@ if __name__ == '__main__':
                 for line in base64.b64decode(faq_page['content']).decode().splitlines():
                   if "title: " in line:
                     print("- [{}]({}{})".format(
-                      line.split(": ")[1],
+                      line.removeprefix("title: "), # requires python 3.9+
                       "https://docs.datadoghq.com",
                       re.findall('content/en(.*)\.md', faq_page['path'])[0]))

@@ -107,7 +107,7 @@
 - [Container Integration Events](https://docs.datadoghq.com/integrations/faq/container-integration-event)
 - [Database user lacks privileges](https://docs.datadoghq.com/integrations/faq/database-user-lacks-privileges)
 - [Elasticsearch Agent cannot connect.](https://docs.datadoghq.com/integrations/faq/elastic-agent-can-t-connect)
-- ["Error](https://docs.datadoghq.com/integrations/faq/error-datadog-not-authorized-sts-assume-role)
+- ["Error: Datadog is not authorized to perform sts:AssumeRole"](https://docs.datadoghq.com/integrations/faq/error-datadog-not-authorized-sts-assume-role)
 - [For SNMP, does Datadog have a list of commonly used/compatible OIDs?](https://docs.datadoghq.com/integrations/faq/for-snmp-does-datadog-have-a-list-of-commonly-used-compatible-oids)
 - [Hadoop Distributed File System (HDFS) Integration Error](https://docs.datadoghq.com/integrations/faq/hadoop-distributed-file-system-hdfs-integration-error)
 - [HAProxy in multi-process mode](https://docs.datadoghq.com/integrations/faq/haproxy-multi-process)
