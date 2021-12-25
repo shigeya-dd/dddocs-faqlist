@@ -21,7 +21,18 @@ jobs:
       - name: Generate FAQ list
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python ./getfaqlist.py
+        run: python ./getfaqlist.py > faq.md
       - name: Commit if changes
-        run: git status
+        run: |
+          git status
+          if ! git diff --exit-code --quiet
+          then
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}"@users.noreply.github.com
+            git add .
+            git commit -m "FAQ list updated by actions"
+            git push
+          fi
+
+
     
