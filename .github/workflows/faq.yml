@@ -19,6 +19,8 @@ jobs:
       - name: Confirm python
         run: python -V
       - name: Generate FAQ list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python ./getfaqlist.py
       - name: Commit if changes
         run: git status
