@@ -1,0 +1,23 @@
+name: Generate FAQ list
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  faq-list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: python
+        uses: actions/checkout@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+        run: python -V
+      - name: Generate FAQ list
+        run: python ./getfaqlist.py
+      - name: Commit if changes
+        run: git status
+    
