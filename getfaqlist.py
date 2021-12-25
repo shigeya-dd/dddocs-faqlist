@@ -27,13 +27,14 @@ if __name__ == '__main__':
         if dir['type'] == "dir":
           r, faq_dir = list_dir(gh_user, gh_repo, dir['path'] + "/faq")
           if r == 200:
-            print("\n# {}\n".format(dir['name'].title()))
+            print("\n# {}\n".format(dir['name'].title().replace('_',' ')))
             for faq in faq_dir:
               if faq['name'] != "_index.md":
                 r, faq_page = list_dir(gh_user, gh_repo, faq['path'])
                 for line in base64.b64decode(faq_page['content']).decode().splitlines():
                   if "title: " in line:
                     print("- [{}]({}{})".format(
-                      line.removeprefix("title: "), # requires python 3.9+
+                      line.removeprefix("title:").strip(), # requires python 3.9+
                       "https://docs.datadoghq.com",
                       re.findall('content/en(.*)\.md', faq_page['path'])[0]))
+                    break

@@ -1,5 +1,5 @@
 
-# Account_Management
+# Account Management
 
 - [Access your support ticket](https://docs.datadoghq.com/account_management/faq/access-your-support-ticket)
 - [Are my data and credentials safe?](https://docs.datadoghq.com/account_management/faq/are-my-data-and-credentials-safe)
@@ -181,7 +181,7 @@
 - [Why did I get a recovery event from a Monitor that was in a Downtime when it alerted?](https://docs.datadoghq.com/monitors/faq/why-did-i-get-a-recovery-event-from-a-monitor-that-was-in-a-downtime-when-it-alerted)
 - [Why Did My Monitor Settings Change Not Take Effect?](https://docs.datadoghq.com/monitors/faq/why-did-my-monitor-settings-change-not-take-effect)
 
-# Real_User_Monitoring
+# Real User Monitoring
 
 - [Content Security Policy (CSP)](https://docs.datadoghq.com/real_user_monitoring/faq/content_security_policy)
 - [Proxy Real User Monitoring Data](https://docs.datadoghq.com/real_user_monitoring/faq/proxy_rum_data)
