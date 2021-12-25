@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: python
+      - name: Setup python
+        uses: actions/checkout@v2
         with:
           python-version: '3.x'
           architecture: 'x64'
+      - name: Confirm python
         run: python -V
       - name: Generate FAQ list
         run: python ./getfaqlist.py
