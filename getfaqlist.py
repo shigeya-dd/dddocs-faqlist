@@ -7,13 +7,18 @@ import re
 
 def list_dir(gh_user, gh_repo, gh_path):
     gh_headers = {"Accept":"application/vnd.github.v3+json"}
-    gh_token = os.environ['GH_TOKEN']
+    gh_token = os.getenv('GITHUB_TOKEN')
     if gh_token:
       gh_headers["Authorization"] = "token " + gh_token
     gh_url = "https://api.github.com/repos/{}/{}/contents/{}".format(gh_user, gh_repo, gh_path)
 
-    response = requests.get(gh_url, headers=gh_headers)
-    #response.raise_for_status()
+    try:
+      response = requests.get(gh_url, headers=gh_headers)
+      response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+      if response.status_code == 403:
+        print("API Error:", e)
+    
     return response.status_code, response.json()
 
 if __name__ == '__main__':
