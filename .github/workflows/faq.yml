@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJSON(github) }}
+        run: echo "$GITHUB_CONTEXT"
       - name: Setup python
         uses: actions/setup-python@v2
         with:
@@ -27,8 +31,8 @@ jobs:
           git status -s
           if ! git diff --exit-code --quiet
           then
-            git config user.name "${GITHUB_ACTOR}"
-            git config user.email "${GITHUB_ACTOR}"@users.noreply.github.com
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add .
             git commit -m "FAQ list updated by actions"
             git push
