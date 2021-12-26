@@ -37,7 +37,7 @@ if __name__ == '__main__':
               if faq['name'] != "_index.md":
                 r, faq_page = list_dir(gh_user, gh_repo, faq['path'])
                 for line in base64.b64decode(faq_page['content']).decode().splitlines():
-                  if "title: " in line:
+                  if "title:" in line:
                     print("- [{}]({}{})".format(
                       line.removeprefix("title:").strip(), # requires python 3.9+
                       "https://docs.datadoghq.com",
