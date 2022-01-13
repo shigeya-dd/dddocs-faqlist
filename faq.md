@@ -185,6 +185,7 @@
 
 - [Content Security Policy (CSP)](https://docs.datadoghq.com/real_user_monitoring/faq/content_security_policy)
 - [Proxy Real User Monitoring Data](https://docs.datadoghq.com/real_user_monitoring/faq/proxy_rum_data)
+- [Allow Third-Party Service Worker for Session Replay](https://docs.datadoghq.com/real_user_monitoring/faq/session_replay_service_worker)
 
 # Synthetics
 
