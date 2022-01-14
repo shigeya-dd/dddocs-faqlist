@@ -42,7 +42,6 @@
 - [How do I set up the Agent to run as a system service on macOS?](https://docs.datadoghq.com/agent/faq/macos-agent-run-as-system-service)
 - [Datadog Cluster Agent when using Azure Kubernetes Service (AKS).](https://docs.datadoghq.com/agent/faq/rbac-for-dca-running-on-aks-with-helm)
 - [RPM GPG Key Rotation](https://docs.datadoghq.com/agent/faq/rpm-gpg-key-rotation-agent-6)
-- [Autodiscovery Template Variables](https://docs.datadoghq.com/agent/faq/template_variables)
 - [Why should I install the Datadog Agent on my cloud instances?](https://docs.datadoghq.com/agent/faq/why-should-i-install-the-agent-on-my-cloud-instances)
 - [Datadog Windows Agent User](https://docs.datadoghq.com/agent/faq/windows-agent-ddagent-user)
 
