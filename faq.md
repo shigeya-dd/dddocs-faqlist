@@ -94,7 +94,6 @@
 - [Both my JMX and AWS integrations use "name" tags. What do I do?](https://docs.datadoghq.com/integrations/faq/both-my-jmx-and-aws-integrations-use-name-tags-what-do-i-do)
 - [Can I collect SQL Server performance metrics beyond what is available in the sys.dm_os_performance_counters table? Try WMI](https://docs.datadoghq.com/integrations/faq/can-i-collect-sql-server-performance-metrics-beyond-what-is-available-in-the-sys-dm-os-performance-counters-table-try-wmi)
 - [Can I install the Agent on my Kubernetes master node(s)](https://docs.datadoghq.com/integrations/faq/can-i-install-the-agent-on-my-Kubernetes-master-node-s)
-- [Can I limit the number of VMs that are pulled in via the VMWare integration?](https://docs.datadoghq.com/integrations/faq/can-i-limit-the-number-of-vms-that-are-pulled-in-via-the-vmware-integration)
 - [Can I set up the dd-agent mysql check on my Google CloudSQL?](https://docs.datadoghq.com/integrations/faq/can-i-set-up-the-dd-agent-mysql-check-on-my-google-cloudsql)
 - [Can I use a named instance in the SQL Server integration?](https://docs.datadoghq.com/integrations/faq/can-i-use-a-named-instance-in-the-sql-server-integration)
 - [Client Authentication against the API server and kubelet](https://docs.datadoghq.com/integrations/faq/client-authentication-against-the-apiserver-and-kubelet)
