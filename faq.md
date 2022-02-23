@@ -197,3 +197,7 @@
 - [Installing the trace Agent from source](https://docs.datadoghq.com/tracing/faq/trace-agent-from-source)
 - [Trace Sampling and Storage](https://docs.datadoghq.com/tracing/faq/trace_sampling_and_storage)
 - [Why can't I see my correlated logs in the Trace ID panel?](https://docs.datadoghq.com/tracing/faq/why-cant-i-see-my-correlated-logs-in-the-trace-id-panel)
+
+# Watchdog
+
+- [Root Cause Not Showing](https://docs.datadoghq.com/watchdog/faq/root-cause-not-showing)
