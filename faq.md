@@ -193,6 +193,7 @@
 - [Configuring App Analytics via the Agent](https://docs.datadoghq.com/tracing/faq/app_analytics_agent_configuration)
 - [PHP tracer manual Installation](https://docs.datadoghq.com/tracing/faq/php-tracer-manual-installation)
 - [Migrate your Profiling Setup for GA](https://docs.datadoghq.com/tracing/faq/profiling_migration)
+- [Service Definition API](https://docs.datadoghq.com/tracing/faq/service_definition_api)
 - [Trace and Span ID Formats](https://docs.datadoghq.com/tracing/faq/span_and_trace_id_format)
 - [Installing the trace Agent from source](https://docs.datadoghq.com/tracing/faq/trace-agent-from-source)
 - [Trace Sampling and Storage](https://docs.datadoghq.com/tracing/faq/trace_sampling_and_storage)
