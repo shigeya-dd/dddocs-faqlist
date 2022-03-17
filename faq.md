@@ -34,7 +34,6 @@
 - [Legacy Kubernetes versions](https://docs.datadoghq.com/agent/faq/kubernetes-legacy)
 - [How do I use Kubernetes secrets to set my API key?](https://docs.datadoghq.com/agent/faq/kubernetes-secrets)
 - [How do I run the kubernetes_state check as a cluster check?](https://docs.datadoghq.com/agent/faq/kubernetes-state-cluster-check)
-- [2022 Linux Agent Key Rotation](https://docs.datadoghq.com/agent/faq/linux-agent-2022-key-rotation)
 - [Log collection with Docker socket](https://docs.datadoghq.com/agent/faq/log-collection-with-docker-socket)
 - [Mitigating the Risk of Remote Code Execution Due to Log4Shell](https://docs.datadoghq.com/agent/faq/log4j_mitigation)
 - [How do I set up the Agent to run as a system service on macOS?](https://docs.datadoghq.com/agent/faq/macos-agent-run-as-system-service)
