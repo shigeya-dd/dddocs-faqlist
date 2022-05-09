@@ -172,7 +172,6 @@
 - [Sending Datadog Events to your Moogsoft AIOps instance.](https://docs.datadoghq.com/monitors/faq/sending-datadog-events-to-your-moogsoft-aiops-instance)
 - [What are recovery thresholds?](https://docs.datadoghq.com/monitors/faq/what-are-recovery-thresholds)
 - [Why am I getting so many "No Data" Alerts for my Metric Monitor](https://docs.datadoghq.com/monitors/faq/why-am-i-getting-so-many-no-data-alerts-for-my-metric-monitor)
-- [Why am I getting so many No Data alerts?](https://docs.datadoghq.com/monitors/faq/why-am-i-getting-so-many-no-data-alerts)
 - [Why did I get a recovery event from a Monitor that was in a Downtime when it alerted?](https://docs.datadoghq.com/monitors/faq/why-did-i-get-a-recovery-event-from-a-monitor-that-was-in-a-downtime-when-it-alerted)
 - [Why Did My Monitor Settings Change Not Take Effect?](https://docs.datadoghq.com/monitors/faq/why-did-my-monitor-settings-change-not-take-effect)
 
