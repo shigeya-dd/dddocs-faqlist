@@ -70,7 +70,6 @@
 # Integrations
 
 - [Amazon Elastic Container Service with Agent v5](https://docs.datadoghq.com/integrations/faq/agent-5-amazon-ecs)
-- [Agent failed to retrieve RMIServer stub](https://docs.datadoghq.com/integrations/faq/agent-failed-to-retrieve-rmierver-stub)
 - [Apache SSL certificate issues](https://docs.datadoghq.com/integrations/faq/apache-ssl-certificate-issues)
 - [AWS Integration and CloudWatch FAQ](https://docs.datadoghq.com/integrations/faq/aws-integration-and-cloudwatch-faq)
 - [The AWS Integration with Terraform](https://docs.datadoghq.com/integrations/faq/aws-integration-with-terraform)
@@ -175,6 +174,7 @@
 - [Configuring App Analytics via the Agent](https://docs.datadoghq.com/tracing/faq/app_analytics_agent_configuration)
 - [PHP tracer manual Installation](https://docs.datadoghq.com/tracing/faq/php-tracer-manual-installation)
 - [Migrate your Profiling Setup for GA](https://docs.datadoghq.com/tracing/faq/profiling_migration)
+- [Datadog Service Catalog](https://docs.datadoghq.com/tracing/faq/service_catalog)
 - [Registering Services through the Datadog Service Definition API](https://docs.datadoghq.com/tracing/faq/service_definition_api)
 - [Trace and Span ID Formats](https://docs.datadoghq.com/tracing/faq/span_and_trace_id_format)
 - [Installing the trace Agent from source](https://docs.datadoghq.com/tracing/faq/trace-agent-from-source)
