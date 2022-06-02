@@ -72,7 +72,6 @@
 - [Amazon Elastic Container Service with Agent v5](https://docs.datadoghq.com/integrations/faq/agent-5-amazon-ecs)
 - [Apache SSL certificate issues](https://docs.datadoghq.com/integrations/faq/apache-ssl-certificate-issues)
 - [AWS Integration and CloudWatch FAQ](https://docs.datadoghq.com/integrations/faq/aws-integration-and-cloudwatch-faq)
-- [The AWS Integration with Terraform](https://docs.datadoghq.com/integrations/faq/aws-integration-with-terraform)
 - [Azure Status and Count Metrics](https://docs.datadoghq.com/integrations/faq/azure-status-metric)
 - [Azure Troubleshooting](https://docs.datadoghq.com/integrations/faq/azure-troubleshooting)
 - [Azure VMs are showing up in the App but not reporting metrics](https://docs.datadoghq.com/integrations/faq/azure-vms-are-showing-up-in-the-app-but-not-reporting-metrics)
