@@ -33,7 +33,6 @@
 
 # Dashboards
 
-- [Embeddable Graphs with Template Variables](https://docs.datadoghq.com/dashboards/faq/embeddable-graphs-with-template-variables)
 - [Historical Data](https://docs.datadoghq.com/dashboards/faq/historical-data)
 - [How can I graph the percentage change between an earlier value and a current value?](https://docs.datadoghq.com/dashboards/faq/how-can-i-graph-the-percentage-change-between-an-earlier-value-and-a-current-value)
 - [How do I add hostname to event titles and messages submitted by my custom Agent checks?](https://docs.datadoghq.com/dashboards/faq/how-do-i-add-hostname-to-event-titles-and-messages-submitted-by-my-custom-agent-checks)
@@ -51,7 +50,6 @@
 - [Troubleshooting - Browser Issues](https://docs.datadoghq.com/dashboards/faq/troubleshooting-browser-issues)
 - [What is the granularity of my graphs? Am I seeing raw data or aggregates on my graph?](https://docs.datadoghq.com/dashboards/faq/what-is-the-granularity-of-my-graphs-am-i-seeing-raw-data-or-aggregates-on-my-graph)
 - [What's the syntax to sum multiple datapoints into a single line?](https://docs.datadoghq.com/dashboards/faq/what-s-the-syntax-to-sum-multiple-datapoints-into-a-single-line)
-- [Why am I unable to iFrame certain https URLs?](https://docs.datadoghq.com/dashboards/faq/why-am-i-unable-to-iframe-certain-https-urls)
 - [Why does zooming out a timeframe also smooth out my graphs?](https://docs.datadoghq.com/dashboards/faq/why-does-zooming-out-a-timeframe-also-smooth-out-my-graphs)
 - [Why is a counter metric being displayed as a decimal value?](https://docs.datadoghq.com/dashboards/faq/why-is-a-counter-metric-being-displayed-as-a-decimal-value)
 - [Why isn't my AWS Trusted Advisor Dashboard showing any data?](https://docs.datadoghq.com/dashboards/faq/why-isn-t-my-aws-trusted-advisor-dashboard-showing-any-data)
