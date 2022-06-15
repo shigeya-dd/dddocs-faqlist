@@ -124,14 +124,7 @@
 
 # Logs
 
-- [How to increase the number of log files tailed by the Agent](https://docs.datadoghq.com/logs/faq/how-to-increase-the-number-of-log-files-tailed-by-the-agent)
 - [How to investigate a log parsing issue](https://docs.datadoghq.com/logs/faq/how-to-investigate-a-log-parsing-issue)
-- [How to remap custom severity values to the official log status?](https://docs.datadoghq.com/logs/faq/how-to-remap-custom-severity-values-to-the-official-log-status)
-- [How to tail logs from host using the Container Agent](https://docs.datadoghq.com/logs/faq/how-to-tail-logs-from-host-using-a-container-agent)
-- [I have a custom log file with heightened read-permissions; how do I send it to Datadog?](https://docs.datadoghq.com/logs/faq/i-have-a-custom-log-file-with-heightened-read-permissions)
-- [Is the Datadog Agent losing logs?](https://docs.datadoghq.com/logs/faq/log-collection-is-the-datadog-agent-losing-logs)
-- [Why do my logs not have the expected timestamp?](https://docs.datadoghq.com/logs/faq/why-do-my-logs-not-have-the-expected-timestamp)
-- [Why do my logs show up with an Info status even for Warnings or Errors?](https://docs.datadoghq.com/logs/faq/why-do-my-logs-show-up-with-an-info-status-even-for-warnings-or-errors)
 
 # Metrics
 
