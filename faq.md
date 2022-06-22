@@ -68,7 +68,6 @@
 - [Client Authentication against the API server and kubelet](https://docs.datadoghq.com/integrations/faq/client-authentication-against-the-apiserver-and-kubelet)
 - [Cloud Metric Delay](https://docs.datadoghq.com/integrations/faq/cloud-metric-delay)
 - [Collect Custom Windows Performance Counters over WMI](https://docs.datadoghq.com/integrations/faq/collect-custom-windows-performance-counters-over-wmi)
-- [Collecting Composite type JMX attributes](https://docs.datadoghq.com/integrations/faq/collecting-composite-type-jmx-attributes)
 - [Compose and the Datadog Agent](https://docs.datadoghq.com/integrations/faq/compose-and-the-datadog-agent)
 - [Connection Issues with the SQL Server Integration](https://docs.datadoghq.com/integrations/faq/connection-issues-with-the-sql-server-integration)
 - [Database user lacks privileges](https://docs.datadoghq.com/integrations/faq/database-user-lacks-privileges)
