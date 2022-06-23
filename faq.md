@@ -63,7 +63,6 @@
 - [Azure Troubleshooting](https://docs.datadoghq.com/integrations/faq/azure-troubleshooting)
 - [Azure VMs are showing up in the App but not reporting metrics](https://docs.datadoghq.com/integrations/faq/azure-vms-are-showing-up-in-the-app-but-not-reporting-metrics)
 - [Both my JMX and AWS integrations use "name" tags. What do I do?](https://docs.datadoghq.com/integrations/faq/both-my-jmx-and-aws-integrations-use-name-tags-what-do-i-do)
-- [Can I collect SQL Server performance metrics beyond what is available in the sys.dm_os_performance_counters table? Try WMI](https://docs.datadoghq.com/integrations/faq/can-i-collect-sql-server-performance-metrics-beyond-what-is-available-in-the-sys-dm-os-performance-counters-table-try-wmi)
 - [Can I use a named instance in the SQL Server integration?](https://docs.datadoghq.com/integrations/faq/can-i-use-a-named-instance-in-the-sql-server-integration)
 - [Client Authentication against the API server and kubelet](https://docs.datadoghq.com/integrations/faq/client-authentication-against-the-apiserver-and-kubelet)
 - [Cloud Metric Delay](https://docs.datadoghq.com/integrations/faq/cloud-metric-delay)
@@ -148,12 +147,8 @@
 # Tracing
 
 - [Configuring App Analytics via the Agent](https://docs.datadoghq.com/tracing/faq/app_analytics_agent_configuration)
-- [PHP tracer manual Installation](https://docs.datadoghq.com/tracing/faq/php-tracer-manual-installation)
-- [Migrate your Profiling Setup for GA](https://docs.datadoghq.com/tracing/faq/profiling_migration)
 - [Datadog Service Catalog](https://docs.datadoghq.com/tracing/faq/service_catalog)
 - [Registering Services through the Datadog Service Definition API](https://docs.datadoghq.com/tracing/faq/service_definition_api)
-- [Trace and Span ID Formats](https://docs.datadoghq.com/tracing/faq/span_and_trace_id_format)
-- [Installing the trace Agent from source](https://docs.datadoghq.com/tracing/faq/trace-agent-from-source)
 - [Trace Sampling and Storage](https://docs.datadoghq.com/tracing/faq/trace_sampling_and_storage)
 - [Why can't I see my correlated logs in the Trace ID panel?](https://docs.datadoghq.com/tracing/faq/why-cant-i-see-my-correlated-logs-in-the-trace-id-panel)
 
