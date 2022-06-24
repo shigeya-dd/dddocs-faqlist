@@ -120,20 +120,7 @@
 
 # Monitors
 
-- [Anomaly Monitor FAQ](https://docs.datadoghq.com/monitors/faq/anomaly-monitor)
-- [Can I create monitor dependencies?](https://docs.datadoghq.com/monitors/faq/can-i-create-monitor-dependencies)
 - [Can I send SMS notifications in Datadog?](https://docs.datadoghq.com/monitors/faq/can-i-send-sms-notifications-in-datadog)
-- [Export Monitor Alerts to CSV](https://docs.datadoghq.com/monitors/faq/how-can-i-export-alert-history)
-- [How can I setup an alert for when a specific tag stops reporting?](https://docs.datadoghq.com/monitors/faq/how-can-i-setup-an-alert-for-when-a-specific-tag-stops-reporting)
-- [How do I monitor ephemeral servers for reboots?](https://docs.datadoghq.com/monitors/faq/how-do-i-monitor-ephemeral-servers-for-reboots)
-- [How do I reduce alert flapping / noise?](https://docs.datadoghq.com/monitors/faq/how-do-i-reduce-alert-flapping-noise)
-- [How to update an anomaly detection monitor to account for local time zone](https://docs.datadoghq.com/monitors/faq/how-to-update-anomaly-monitor-timezone)
-- [I have a downtime scheduled on my monitor, why did it still alert?!](https://docs.datadoghq.com/monitors/faq/i-have-a-downtime-scheduled-on-my-monitor-why-did-it-still-alert)
-- [Sending Datadog Events to your Moogsoft AIOps instance.](https://docs.datadoghq.com/monitors/faq/sending-datadog-events-to-your-moogsoft-aiops-instance)
-- [What are recovery thresholds?](https://docs.datadoghq.com/monitors/faq/what-are-recovery-thresholds)
-- [Why am I getting so many "No Data" Alerts for my Metric Monitor](https://docs.datadoghq.com/monitors/faq/why-am-i-getting-so-many-no-data-alerts-for-my-metric-monitor)
-- [Why did I get a recovery event from a Monitor that was in a Downtime when it alerted?](https://docs.datadoghq.com/monitors/faq/why-did-i-get-a-recovery-event-from-a-monitor-that-was-in-a-downtime-when-it-alerted)
-- [Why Did My Monitor Settings Change Not Take Effect?](https://docs.datadoghq.com/monitors/faq/why-did-my-monitor-settings-change-not-take-effect)
 
 # Real User Monitoring
 
@@ -141,8 +128,6 @@
 
 # Synthetics
 
-- [Clone your Synthetic tests](https://docs.datadoghq.com/synthetics/faq/clone-test)
-- [Create an API Test for private website](https://docs.datadoghq.com/synthetics/faq/uptime-check-internal-website)
 
 # Tracing
 
