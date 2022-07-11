@@ -35,7 +35,6 @@
 
 - [Historical Data](https://docs.datadoghq.com/dashboards/faq/historical-data)
 - [How can I graph the percentage change between an earlier value and a current value?](https://docs.datadoghq.com/dashboards/faq/how-can-i-graph-the-percentage-change-between-an-earlier-value-and-a-current-value)
-- [I'm switching between the sum/min/max/avg aggregators but the values look the same?](https://docs.datadoghq.com/dashboards/faq/i-m-switching-between-the-sum-min-max-avg-aggregators-but-the-values-look-the-same)
 - [Interpolation and the Fill Modifier](https://docs.datadoghq.com/dashboards/faq/interpolation-the-fill-modifier-explained)
 - [The same color is used twice in my graph!](https://docs.datadoghq.com/dashboards/faq/the-same-color-is-used-twice-in-my-graph)
 - [There are too many lines on my graph, can I only display the most important ones?](https://docs.datadoghq.com/dashboards/faq/there-are-too-many-lines-on-my-graph-can-i-only-display-the-most-important-ones)
@@ -87,8 +86,6 @@
 - [MySQL Localhost Error - Localhost VS 127.0.0.1](https://docs.datadoghq.com/integrations/faq/mysql-localhost-error-localhost-vs-127-0-0-1)
 - [Postgres Custom Metric Collection](https://docs.datadoghq.com/integrations/faq/postgres-custom-metric-collection-explained)
 - [Powershell command to install Azure Datadog Extension](https://docs.datadoghq.com/integrations/faq/powershell-command-to-install-azure-datadog-extension)
-- [Redis Integration Error, "unknown command 'CONFIG'"](https://docs.datadoghq.com/integrations/faq/redis-integration-error-unknown-command-config)
-- [SNMP (old version)](https://docs.datadoghq.com/integrations/faq/snmp)
 - [Tagging RabbitMQ queues by tag family](https://docs.datadoghq.com/integrations/faq/tagging-rabbitmq-queues-by-tag-family)
 - [Troubleshooting and Deep Dive for Kafka](https://docs.datadoghq.com/integrations/faq/troubleshooting-and-deep-dive-for-kafka)
 - [Troubleshooting duplicated hosts with vSphere](https://docs.datadoghq.com/integrations/faq/troubleshooting-duplicated-hosts-with-vsphere)
