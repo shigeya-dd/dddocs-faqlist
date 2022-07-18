@@ -121,7 +121,6 @@
 - [Datadog Service Catalog](https://docs.datadoghq.com/tracing/faq/service_catalog)
 - [Registering Services through the Datadog Service Definition API](https://docs.datadoghq.com/tracing/faq/service_definition_api)
 - [Trace Sampling and Storage](https://docs.datadoghq.com/tracing/faq/trace_sampling_and_storage)
-- [Why can't I see my correlated logs in the Trace ID panel?](https://docs.datadoghq.com/tracing/faq/why-cant-i-see-my-correlated-logs-in-the-trace-id-panel)
 
 # Watchdog
 
