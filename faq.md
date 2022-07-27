@@ -110,8 +110,6 @@
 # Tracing
 
 - [Configuring App Analytics via the Agent](https://docs.datadoghq.com/tracing/faq/app_analytics_agent_configuration)
-- [Datadog Service Catalog](https://docs.datadoghq.com/tracing/faq/service_catalog)
-- [Registering Services through the Datadog Service Definition API](https://docs.datadoghq.com/tracing/faq/service_definition_api)
 - [Trace Sampling and Storage](https://docs.datadoghq.com/tracing/faq/trace_sampling_and_storage)
 
 # Watchdog
