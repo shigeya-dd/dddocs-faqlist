@@ -77,7 +77,7 @@
 - [API Source Attributes](https://docs.datadoghq.com/integrations/faq/list-of-api-source-attribute-value)
 - [MySQL Localhost Error - Localhost VS 127.0.0.1](https://docs.datadoghq.com/integrations/faq/mysql-localhost-error-localhost-vs-127-0-0-1)
 - [Postgres Custom Metric Collection](https://docs.datadoghq.com/integrations/faq/postgres-custom-metric-collection-explained)
-- [Powershell command to install Azure Datadog Extension](https://docs.datadoghq.com/integrations/faq/powershell-command-to-install-azure-datadog-extension)
+- [Commands to install the Azure Datadog Extension](https://docs.datadoghq.com/integrations/faq/powershell-command-to-install-azure-datadog-extension)
 - [Tagging RabbitMQ queues by tag family](https://docs.datadoghq.com/integrations/faq/tagging-rabbitmq-queues-by-tag-family)
 - [Troubleshooting and Deep Dive for Kafka](https://docs.datadoghq.com/integrations/faq/troubleshooting-and-deep-dive-for-kafka)
 - [Troubleshooting duplicated hosts with vSphere](https://docs.datadoghq.com/integrations/faq/troubleshooting-duplicated-hosts-with-vsphere)
