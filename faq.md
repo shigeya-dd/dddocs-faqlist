@@ -91,6 +91,7 @@
 # Logs
 
 - [How to investigate a log parsing issue](https://docs.datadoghq.com/logs/faq/how-to-investigate-a-log-parsing-issue)
+- [Logs Cost Attribution](https://docs.datadoghq.com/logs/faq/logs_cost_attribution)
 - [Log Integration Guidelines for Datadog Partners](https://docs.datadoghq.com/logs/faq/partner_log_integration)
 
 # Metrics
