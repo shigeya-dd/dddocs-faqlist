@@ -32,6 +32,10 @@
 - [Datadog Cluster Agent when using Azure Kubernetes Service (AKS).](https://docs.datadoghq.com/agent/faq/rbac-for-dca-running-on-aks-with-helm)
 - [RPM GPG Key Rotation](https://docs.datadoghq.com/agent/faq/rpm-gpg-key-rotation-agent-6)
 
+# Containers
+
+- [Build the Datadog Cluster Agent](https://docs.datadoghq.com/containers/faq/build_cluster_agent)
+
 # Dashboards
 
 - [Historical Data](https://docs.datadoghq.com/dashboards/faq/historical-data)
