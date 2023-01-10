@@ -20,6 +20,7 @@
 - [Downgrade the Agent to a Prior Minor Version](https://docs.datadoghq.com/agent/faq/agent-downgrade-minor)
 - [Agent v6 Changes](https://docs.datadoghq.com/agent/faq/agent_v6_changes)
 - [CERTIFICATE_VERIFY_FAILED error](https://docs.datadoghq.com/agent/faq/certificate_verify_failed-error)
+- [Impact of the CircleCI Security Incident on the Datadog Agent](https://docs.datadoghq.com/agent/faq/circleci-incident-impact-on-datadog-agent)
 - [Docker Hub](https://docs.datadoghq.com/agent/faq/docker-hub)
 - [Windows EC2 hostnames starting with EC2AMAZ-](https://docs.datadoghq.com/agent/faq/ec2-use-win-prefix-detection)
 - [Error Restarting Agent, Already Listening on a Configured Port](https://docs.datadoghq.com/agent/faq/error-restarting-agent-already-listening-on-a-configured-port)
