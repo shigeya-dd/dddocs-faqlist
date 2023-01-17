@@ -41,7 +41,6 @@
 
 - [Historical Data](https://docs.datadoghq.com/dashboards/faq/historical-data)
 - [How can I graph the percentage change between an earlier value and a current value?](https://docs.datadoghq.com/dashboards/faq/how-can-i-graph-the-percentage-change-between-an-earlier-value-and-a-current-value)
-- [Interpolation and the Fill Modifier](https://docs.datadoghq.com/dashboards/faq/interpolation-the-fill-modifier-explained)
 - [The same color is used twice in my graph!](https://docs.datadoghq.com/dashboards/faq/the-same-color-is-used-twice-in-my-graph)
 - [There are too many lines on my graph, can I only display the most important ones?](https://docs.datadoghq.com/dashboards/faq/there-are-too-many-lines-on-my-graph-can-i-only-display-the-most-important-ones)
 - [What is the granularity of my graphs? Am I seeing raw data or aggregates on my graph?](https://docs.datadoghq.com/dashboards/faq/what-is-the-granularity-of-my-graphs-am-i-seeing-raw-data-or-aggregates-on-my-graph)
