@@ -1,7 +1,6 @@
 
 # Account Management
 
-- [Access Your Support Ticket](https://docs.datadoghq.com/account_management/faq/access-your-support-ticket)
 - [Are my data and credentials safe?](https://docs.datadoghq.com/account_management/faq/are-my-data-and-credentials-safe)
 - [As a parent account admin, how do I create new sub-organizations?](https://docs.datadoghq.com/account_management/faq/as-a-parent-account-admin-how-do-i-create-new-sub-organizations)
 - [Do you support custom domains for each of my sub-organizations?](https://docs.datadoghq.com/account_management/faq/do-you-support-custom-domains-for-each-of-my-sub-organizations)
