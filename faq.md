@@ -106,10 +106,6 @@
 
 - [Can I send SMS notifications in Datadog?](https://docs.datadoghq.com/monitors/faq/can-i-send-sms-notifications-in-datadog)
 
-# Real User Monitoring
-
-- [Content Security Policy (CSP)](https://docs.datadoghq.com/real_user_monitoring/faq/content_security_policy)
-
 # Synthetics
 
 
