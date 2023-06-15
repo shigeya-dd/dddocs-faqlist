@@ -57,6 +57,11 @@
 - [OmniOS Install From Source](https://docs.datadoghq.com/developers/faq/omnios-and-possibly-smartos-openindiana-nexenta-install-from-source-by-tweaking-the-agent-install-script)
 - [Use the webhooks integration to create a Trello card](https://docs.datadoghq.com/developers/faq/use-our-webhook-integration-to-create-a-trello-card)
 
+# Infrastructure
+
+- [Live Containers Legacy Configuration](https://docs.datadoghq.com/infrastructure/faq/live-containers-legacy-configuration)
+- [Set up Orchestrator Explorer with DaemonSet](https://docs.datadoghq.com/infrastructure/faq/set-up-orchestrator-explorer-daemonset)
+
 # Integrations
 
 - [Amazon Elastic Container Service with Agent v5](https://docs.datadoghq.com/integrations/faq/agent-5-amazon-ecs)
