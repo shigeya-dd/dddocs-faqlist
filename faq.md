@@ -26,6 +26,7 @@
 - [Host Metrics with the Container Agent](https://docs.datadoghq.com/agent/faq/host-metrics-with-the-container-agent)
 - [Config-provided hostname starting with `ip-` or `domu`](https://docs.datadoghq.com/agent/faq/hostname-starting-with-ec2-default-prefix)
 - [How does Datadog determine the Agent hostname?](https://docs.datadoghq.com/agent/faq/how-datadog-agent-determines-the-hostname)
+- [2022 Linux Agent Key Rotation](https://docs.datadoghq.com/agent/faq/linux-agent-2022-key-rotation)
 - [Log collection with Docker socket](https://docs.datadoghq.com/agent/faq/log-collection-with-docker-socket)
 - [Mitigating the Risk of Remote Code Execution Due to Log4Shell](https://docs.datadoghq.com/agent/faq/log4j_mitigation)
 - [How do I set up the Agent to run as a system service on macOS?](https://docs.datadoghq.com/agent/faq/macos-agent-run-as-system-service)
