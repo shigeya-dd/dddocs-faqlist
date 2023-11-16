@@ -43,8 +43,6 @@
 - [How can I graph the percentage change between an earlier value and a current value?](https://docs.datadoghq.com/dashboards/faq/how-can-i-graph-the-percentage-change-between-an-earlier-value-and-a-current-value)
 - [The same color is used twice in my graph!](https://docs.datadoghq.com/dashboards/faq/the-same-color-is-used-twice-in-my-graph)
 - [There are too many lines on my graph, can I only display the most important ones?](https://docs.datadoghq.com/dashboards/faq/there-are-too-many-lines-on-my-graph-can-i-only-display-the-most-important-ones)
-- [What is the granularity of my graphs? Am I seeing raw data or aggregates on my graph?](https://docs.datadoghq.com/dashboards/faq/what-is-the-granularity-of-my-graphs-am-i-seeing-raw-data-or-aggregates-on-my-graph)
-- [Why does zooming out a timeframe also smooth out my graphs?](https://docs.datadoghq.com/dashboards/faq/why-does-zooming-out-a-timeframe-also-smooth-out-my-graphs)
 - [Why isn't my AWS Trusted Advisor Dashboard showing any data?](https://docs.datadoghq.com/dashboards/faq/why-isn-t-my-aws-trusted-advisor-dashboard-showing-any-data)
 
 # Developers
