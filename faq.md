@@ -36,6 +36,7 @@
 # Containers
 
 - [Build the Datadog Cluster Agent](https://docs.datadoghq.com/containers/faq/build_cluster_agent)
+- [Errors during OpenShift upgrade with custom SCCs](https://docs.datadoghq.com/containers/faq/package-server-manager-openshift)
 
 # Dashboards
 
