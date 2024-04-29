@@ -46,6 +46,7 @@
 - [Is GovCloud supported?](https://docs.datadoghq.com/cloudcraft/faq/govcloud-support)
 - [Does Cloudcraft have HIPAA accreditation?](https://docs.datadoghq.com/cloudcraft/faq/hipaa-accreditation)
 - [How does Cloudcraft connect to my AWS account?](https://docs.datadoghq.com/cloudcraft/faq/how-cloudcraft-connects-to-aws)
+- [How does Cloudcraft connect to my Azure account?](https://docs.datadoghq.com/cloudcraft/faq/how-cloudcraft-connects-to-azure)
 - [Can I scan multiple accounts onto the same blueprint?](https://docs.datadoghq.com/cloudcraft/faq/multiple-accounts-same-blueprint)
 - [What payment methods are accepted?](https://docs.datadoghq.com/cloudcraft/faq/payment-methods)
 - [How do I reset my password?](https://docs.datadoghq.com/cloudcraft/faq/reset-password)
