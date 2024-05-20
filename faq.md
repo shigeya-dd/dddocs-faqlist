@@ -140,9 +140,6 @@
 
 - [Can I send SMS notifications in Datadog?](https://docs.datadoghq.com/monitors/faq/can-i-send-sms-notifications-in-datadog)
 
-# Synthetics
-
-
 # Tracing
 
 - [Configuring App Analytics via the Agent](https://docs.datadoghq.com/tracing/faq/app_analytics_agent_configuration)
