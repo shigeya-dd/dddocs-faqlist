@@ -63,9 +63,6 @@
 - [Why can't I export diagrams as Terraform code anymore?](https://docs.datadoghq.com/cloudcraft/faq/why-cant-export-diagram-to-terraform)
 - [I can't create IAM roles in AWS. How can I add an AWS account?](https://docs.datadoghq.com/cloudcraft/faq/workaround-add-aws-account-without-permission)
 
-# Code Analysis
-
-
 # Containers
 
 - [Build the Datadog Cluster Agent](https://docs.datadoghq.com/containers/faq/build_cluster_agent)
