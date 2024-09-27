@@ -8,6 +8,7 @@
 - [How do I add new users to sub-organizations?](https://docs.datadoghq.com/account_management/faq/how-do-i-add-new-users-to-sub-organizations)
 - [How is Datadog retrieving my data? Are my data and credentials safe?](https://docs.datadoghq.com/account_management/faq/how-is-datadog-retrieving-my-data-are-my-data-and-credentials-safe)
 - [Is it possible to have my login belong to multiple Datadog organizations?](https://docs.datadoghq.com/account_management/faq/is-it-possible-to-have-my-login-belong-to-multiple-datadog-organizations)
+- [Legacy Okta SAML IdP configuration](https://docs.datadoghq.com/account_management/faq/okta)
 - ["What are Datadog's password requirements?"](https://docs.datadoghq.com/account_management/faq/password-requirements)
 - [Estimate and Control APM Usage](https://docs.datadoghq.com/account_management/faq/usage_control_apm)
 - [Why are users being added as "none none"?](https://docs.datadoghq.com/account_management/faq/why-are-users-being-added-as-none-none)
