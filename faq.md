@@ -53,7 +53,6 @@
 - [How do I reset my password?](https://docs.datadoghq.com/cloudcraft/faq/reset-password)
 - [Can I disable or restrict the export options?](https://docs.datadoghq.com/cloudcraft/faq/restrict-export-options)
 - [Is the AWS China region supported?](https://docs.datadoghq.com/cloudcraft/faq/scan-error-aws-china-region)
-- [Do you offer discounts for schools and nonprofit organizations?](https://docs.datadoghq.com/cloudcraft/faq/schools-non-profit-organizations-discounts)
 - [Has Cloudcraft gone through security audits?](https://docs.datadoghq.com/cloudcraft/faq/security-audits)
 - [How are shared blueprint links secured?](https://docs.datadoghq.com/cloudcraft/faq/shareable-link-security)
 - [Do you have a SOC2 report?](https://docs.datadoghq.com/cloudcraft/faq/soc2-report)
