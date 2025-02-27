@@ -134,7 +134,6 @@
 
 - [Rollup Update for Distribution Metrics with Percentiles?](https://docs.datadoghq.com/metrics/faq/rollup-for-distributions-with-percentiles)
 - [Update to Distribution Metrics Workflow FAQ](https://docs.datadoghq.com/metrics/faq/updating-to-distribution-metrics-faq)
-- [Why is my "Save" button disabled when configuring metrics tags?](https://docs.datadoghq.com/metrics/faq/why-is-my-save-button-disabled)
 
 # Monitors
 
