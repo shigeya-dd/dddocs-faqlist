@@ -23,6 +23,7 @@
 - [Impact of the CircleCI Security Incident on the Datadog Agent](https://docs.datadoghq.com/agent/faq/circleci-incident-impact-on-datadog-agent)
 - [Docker Hub](https://docs.datadoghq.com/agent/faq/docker-hub)
 - [Windows EC2 hostnames starting with EC2AMAZ-](https://docs.datadoghq.com/agent/faq/ec2-use-win-prefix-detection)
+- [IMDSv2 Enablement by Default](https://docs.datadoghq.com/agent/faq/ec2_imdsv2_transition_payload_enabled)
 - [Error Restarting Agent, Already Listening on a Configured Port](https://docs.datadoghq.com/agent/faq/error-restarting-agent-already-listening-on-a-configured-port)
 - [Host Metrics with the Container Agent](https://docs.datadoghq.com/agent/faq/host-metrics-with-the-container-agent)
 - [Config-provided hostname starting with `ip-` or `domu`](https://docs.datadoghq.com/agent/faq/hostname-starting-with-ec2-default-prefix)
