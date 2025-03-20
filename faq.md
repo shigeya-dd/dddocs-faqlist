@@ -67,6 +67,7 @@
 # Containers
 
 - [Build the Datadog Cluster Agent](https://docs.datadoghq.com/containers/faq/build_cluster_agent)
+- [Discrepancies in Kubernetes CPU Usage Metrics](https://docs.datadoghq.com/containers/faq/cpu-usage-metrics)
 - [Errors during OpenShift upgrade with custom SCCs](https://docs.datadoghq.com/containers/faq/package-server-manager-openshift)
 
 # Dashboards
