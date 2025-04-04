@@ -81,7 +81,6 @@
 
 - [Deploying the Agent on RaspberryPI](https://docs.datadoghq.com/developers/faq/deploying-the-agent-on-raspberrypi)
 - [Post AppDynamics Events to Datadog](https://docs.datadoghq.com/developers/faq/how-to-post-appdynamics-events-to-datadog)
-- [Hubot Script - Request snapshots in chat using the Datadog API](https://docs.datadoghq.com/developers/faq/hubot-script-request-snapshots-in-chat-using-the-datadog-api)
 - [Is it possible to integrate with ThousandEyes?](https://docs.datadoghq.com/developers/faq/is-it-possible-to-integrate-with-thousandeyes)
 - [Submit Metrics to Datadog with Threadstats](https://docs.datadoghq.com/developers/faq/is-there-an-alternative-to-dogstatsd-and-the-api-to-submit-metrics-threadstats)
 - [Custom Legacy OpenMetrics Check](https://docs.datadoghq.com/developers/faq/legacy-openmetrics)
