@@ -32,6 +32,8 @@
 - [Log collection with Docker socket](https://docs.datadoghq.com/agent/faq/log-collection-with-docker-socket)
 - [Mitigating the Risk of Remote Code Execution Due to Log4Shell](https://docs.datadoghq.com/agent/faq/log4j_mitigation)
 - [How do I set up the Agent to run as a system service on macOS?](https://docs.datadoghq.com/agent/faq/macos-agent-run-as-system-service)
+- [Proxy Example with HAProxy](https://docs.datadoghq.com/agent/faq/proxy_example_haproxy)
+- [Proxy Example with NGINX](https://docs.datadoghq.com/agent/faq/proxy_example_nginx)
 - [Datadog Cluster Agent when using Azure Kubernetes Service (AKS).](https://docs.datadoghq.com/agent/faq/rbac-for-dca-running-on-aks-with-helm)
 - [RPM GPG Key Rotation](https://docs.datadoghq.com/agent/faq/rpm-gpg-key-rotation-agent-6)
 
