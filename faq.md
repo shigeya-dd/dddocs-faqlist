@@ -16,6 +16,7 @@
 # Agent
 
 - [Process collection with Agent v5](https://docs.datadoghq.com/agent/faq/agent-5-process-collection)
+- [Agent v5 - Certificate Authority Update (2025)](https://docs.datadoghq.com/agent/faq/agent-5-sectigo-root-ca-rotation)
 - [Downgrade the Agent to a prior major version](https://docs.datadoghq.com/agent/faq/agent-downgrade-major)
 - [Downgrade the Agent to a Prior Minor Version](https://docs.datadoghq.com/agent/faq/agent-downgrade-minor)
 - [Agent v6 Changes](https://docs.datadoghq.com/agent/faq/agent_v6_changes)
