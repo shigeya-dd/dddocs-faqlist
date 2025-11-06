@@ -109,7 +109,6 @@
 - [HAProxy in multi-process mode](https://docs.datadoghq.com/integrations/faq/haproxy-multi-process)
 - [How do I pull my EC2 tags without using the AWS integration?](https://docs.datadoghq.com/integrations/faq/how-do-i-pull-my-ec2-tags-without-using-the-aws-integration)
 - [How to collect metrics from custom Vertica queries](https://docs.datadoghq.com/integrations/faq/how-to-collect-metrics-from-custom-vertica-queries)
-- [How to Make a Trello Card using Webhooks](https://docs.datadoghq.com/integrations/faq/how-to-make-trello-card-using-webhooks)
 - [I Have a Matching Bean for my JMX integration but nothing on Collect !](https://docs.datadoghq.com/integrations/faq/i-have-a-matching-bean-for-my-jmx-integration-but-nothing-on-collect)
 - [I've set up the JIRA integration, now how do I get events and tickets created?](https://docs.datadoghq.com/integrations/faq/i-ve-set-up-the-jira-integration-now-how-do-i-get-events-and-tickets-created)
 - [Integration Setup for ECS Fargate](https://docs.datadoghq.com/integrations/faq/integration-setup-ecs-fargate)
