@@ -133,6 +133,7 @@
 
 - [How to investigate a log parsing issue](https://docs.datadoghq.com/logs/faq/how-to-investigate-a-log-parsing-issue)
 - [Logs Cost Attribution](https://docs.datadoghq.com/logs/faq/logs_cost_attribution)
+- [Why You Should Not Use TCP for Log Collection](https://docs.datadoghq.com/logs/faq/why-not-to-use-tcp-for-log-collection)
 
 # Metrics
 
