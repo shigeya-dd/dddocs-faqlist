@@ -94,7 +94,7 @@
 # Infrastructure
 
 - [Live Containers Legacy Configuration](https://docs.datadoghq.com/infrastructure/faq/live-containers-legacy-configuration)
-- [Set up Orchestrator Explorer with DaemonSet](https://docs.datadoghq.com/infrastructure/faq/set-up-orchestrator-explorer-daemonset)
+- [Set up Kubernetes Explorer with DaemonSet](https://docs.datadoghq.com/infrastructure/faq/set-up-orchestrator-explorer-daemonset)
 
 # Integrations
 
