@@ -81,15 +81,15 @@
 - [The same color is used twice in my graph!](https://docs.datadoghq.com/dashboards/faq/the-same-color-is-used-twice-in-my-graph)
 - [There are too many lines on my graph, can I only display the most important ones?](https://docs.datadoghq.com/dashboards/faq/there-are-too-many-lines-on-my-graph-can-i-only-display-the-most-important-ones)
 
-# Developers
+# Extend
 
-- [Deploying the Agent on RaspberryPI](https://docs.datadoghq.com/developers/faq/deploying-the-agent-on-raspberrypi)
-- [Post AppDynamics Events to Datadog](https://docs.datadoghq.com/developers/faq/how-to-post-appdynamics-events-to-datadog)
-- [Is it possible to integrate with ThousandEyes?](https://docs.datadoghq.com/developers/faq/is-it-possible-to-integrate-with-thousandeyes)
-- [Submit Metrics to Datadog with Threadstats](https://docs.datadoghq.com/developers/faq/is-there-an-alternative-to-dogstatsd-and-the-api-to-submit-metrics-threadstats)
-- [Custom Legacy OpenMetrics Check](https://docs.datadoghq.com/developers/faq/legacy-openmetrics)
-- [OmniOS Install From Source](https://docs.datadoghq.com/developers/faq/omnios-and-possibly-smartos-openindiana-nexenta-install-from-source-by-tweaking-the-agent-install-script)
-- [Use the webhooks integration to create a Trello card](https://docs.datadoghq.com/developers/faq/use-our-webhook-integration-to-create-a-trello-card)
+- [Deploying the Agent on RaspberryPI](https://docs.datadoghq.com/extend/faq/deploying-the-agent-on-raspberrypi)
+- [Post AppDynamics Events to Datadog](https://docs.datadoghq.com/extend/faq/how-to-post-appdynamics-events-to-datadog)
+- [Is it possible to integrate with ThousandEyes?](https://docs.datadoghq.com/extend/faq/is-it-possible-to-integrate-with-thousandeyes)
+- [Submit Metrics to Datadog with Threadstats](https://docs.datadoghq.com/extend/faq/is-there-an-alternative-to-dogstatsd-and-the-api-to-submit-metrics-threadstats)
+- [Custom Legacy OpenMetrics Check](https://docs.datadoghq.com/extend/faq/legacy-openmetrics)
+- [OmniOS Install From Source](https://docs.datadoghq.com/extend/faq/omnios-and-possibly-smartos-openindiana-nexenta-install-from-source-by-tweaking-the-agent-install-script)
+- [Use the webhooks integration to create a Trello card](https://docs.datadoghq.com/extend/faq/use-our-webhook-integration-to-create-a-trello-card)
 
 # Infrastructure
 
