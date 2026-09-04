@@ -28,7 +28,7 @@ def list_dir(gh_user, gh_repo, gh_path):
 if __name__ == "__main__":
     gh_user = "DataDog"
     gh_repo = "documentation"
-    gh_path = "content/en"
+    gh_path = "hugo/content/en"
 
     r, top_dir = list_dir(gh_user, gh_repo, gh_path)
     if r == 200:
@@ -53,7 +53,7 @@ if __name__ == "__main__":
                                             ).strip(),  # requires python 3.9+
                                             "https://docs.datadoghq.com",
                                             re.findall(
-                                                "content/en(.*)\.md", faq_page["path"]
+                                                r"content/en(.*)\.md", faq_page["path"]
                                             )[0],
                                         )
                                     )
